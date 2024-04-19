@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,lua,sql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,html,css,js,py,lua,sql&theme=light)](https://skillicons.dev)
 ## Learning:
 [![My Skills](https://skillicons.dev/icons?i=php,lua,ts&theme=light)](https://skillicons.dev)
 
