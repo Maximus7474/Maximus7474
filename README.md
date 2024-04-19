@@ -1,4 +1,4 @@
-### [Hello there](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fstarwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8&psig=AOvVaw2GFOpHamMOTDehb1ax4hQv&ust=1713631888868000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi3_rHezoUDFQAAAAAdAAAAABAE) 👋
+### [Hello there](https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp) 👋
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,lua,sql&theme=dark)](https://skillicons.dev)
