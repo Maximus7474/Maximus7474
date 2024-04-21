@@ -7,5 +7,12 @@
 ## Learning:
 [![My Skills](https://skillicons.dev/icons?i=php,ts,cpp,discordjs&theme=dark)](https://skillicons.dev)
 
-# Support:
-<p align="center"><a align="center" href="https://ko-fi.com/maximus_prime"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maximus_prime" /></a></p><br><br>
+<hr>
+<p align="center">
+  <a align="center" href="https://ko-fi.com/maximus_prime">
+    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maximus_prime" />
+  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
