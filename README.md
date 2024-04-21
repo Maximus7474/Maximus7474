@@ -1,8 +1,7 @@
 ### [Hello there](https://i.giphy.com/xTiIzJSKB4l7xTouE8.webp) 👋
 
-<p align="center">
+<br>
 ![Static Badge](https://img.shields.io/badge/Spoken%20Languages-636363)&nbsp;![Static Badge](https://img.shields.io/badge/English-012169)&nbsp;![Static Badge](https://img.shields.io/badge/Français-ce1127)&nbsp;![Static Badge](https://img.shields.io/badge/Deutsch-ffce00)
-</p>
 
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,lua,sql&theme=dark)](https://skillicons.dev)
