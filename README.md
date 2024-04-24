@@ -9,7 +9,7 @@
 ## Learning:
 [![My Skills](https://skillicons.dev/icons?i=php,ts,cpp,discordjs&theme=dark)](https://skillicons.dev)
 
-<hr>
+<hr style="border-radius: 50px";>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&theme=github_dark&hide_border=true"
