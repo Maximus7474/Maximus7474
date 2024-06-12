@@ -21,3 +21,6 @@
     <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maximus_prime" />
   </a>
 </p>
+
+## Links:
+- Legacy Framework - [Github](https://www.github.com/Legacy-Framework) [Discord](https://discord.gg/y7Qeu9MHVK)
