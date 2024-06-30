@@ -20,7 +20,9 @@
   <a align="center" href="https://ko-fi.com/maximus_prime">
     <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maximus_prime" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Maximus7474&label=Visitors"/>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Maximus7474&label=Visitors"/>
+  </a>
 </p>
 
 ## Links:
