@@ -2,6 +2,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Spoken%20Languages-636363)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/English-012169)&nbsp;![Static Badge](https://img.shields.io/badge/Français-ce1127)&nbsp;![Static Badge](https://img.shields.io/badge/Deutsch-ffce00) 
 
+![Visitors](https://komarev.com/ghpvc/?username=Maximus7474&label=Visitors)
+
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,lua,sql&theme=dark)](https://skillicons.dev)
 ## Integrations:
@@ -19,9 +21,6 @@
   /><br>
   <a align="center" href="https://ko-fi.com/maximus_prime">
     <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maximus_prime" />
-  </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=Maximus7474&label=Visitors"/>
   </a>
 </p>
 
