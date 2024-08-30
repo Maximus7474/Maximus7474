@@ -1,1 +1,3 @@
-If you read this, then you've changed your fxmanifest for some obscure reason
+Improved the configuration of the script allowing:
+- animation selection
+- selection between a prop and a marker for dropped notes
