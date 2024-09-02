@@ -25,3 +25,4 @@
 
 ## Links:
 - Legacy Framework - [Github](https://www.github.com/Legacy-Framework) [Discord](https://discord.gg/y7Qeu9MHVK)
+- Paid FiveM Scripts - [Tebex Store](https://maximus-scripts.tebex.io/category/2765572)
