@@ -1,3 +1,3 @@
-Improved the configuration of the script allowing:
-- animation selection
-- selection between a prop and a marker for dropped notes
+- Added persistent notes through restarts
+- Fixed prop not deleting on restart
+- Added giving the note to players
