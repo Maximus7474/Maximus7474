@@ -1,3 +1,2 @@
-- Added persistent notes through restarts
-- Fixed prop not deleting on restart
-- Added giving the note to players
+- Fixed fxmanifest issues regarding escrowed files
+- Added config checker to validate the configuration
