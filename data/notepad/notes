@@ -1,2 +1,3 @@
-- Fixed fxmanifest issues regarding escrowed files
-- Added config checker to validate the configuration
+- Support for Quasar Inventory
+- Added a visual difference for the notepad and the torn notes
+- Fixed the module checker when using a custom inventory
