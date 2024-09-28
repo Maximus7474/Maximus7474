@@ -1,3 +1,1 @@
-- Support for Quasar Inventory
-- Added a visual difference for the notepad and the torn notes
-- Fixed the module checker when using a custom inventory
+- Fixed serverside initialization system
