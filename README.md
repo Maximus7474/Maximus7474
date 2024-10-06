@@ -21,7 +21,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true"
   /><br>
   <img
-    src="github-readme-stats.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage"
+    src="https://github-readme-stats.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage"
   />
 </p>
 
