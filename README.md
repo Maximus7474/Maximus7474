@@ -17,18 +17,10 @@
 
 <hr style="border-radius: 50px";>
 <p align="center">
-  <table style="border: 0; border-collapse: collapse;">
-    <tr>
-      <td style="border: 0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark" />
-      </td>
-      <td style="border: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark" style="margin-bottom: 2.5em;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage&hide_border=true" />
 </p>
-
 
 ## Links:
 - Personal Server - [Discord](https://discord.gg/wCcsEcUhzf)
