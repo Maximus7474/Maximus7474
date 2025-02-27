@@ -18,7 +18,7 @@
 <hr style="border-radius: 50px";>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark"
   /><br>
   <img
     src="https://github-readme-stats.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage"
