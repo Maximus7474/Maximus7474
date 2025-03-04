@@ -11,9 +11,11 @@
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,lua,sql&theme=dark)](https://skillicons.dev)
 ## Integrations:
-[![My Skills](https://skillicons.dev/icons?i=discord,bots,discordjs,github,sqlite,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord,bots,discordjs,sqlite&theme=dark)](https://skillicons.dev)
+## Web Stack Experience:
+[![My Skills](https://skillicons.dev/icons?i=pnpm,sqlite,react,tailwind,ts&theme=dark)](https://skillicons.dev)
 ## Learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=githubactions,cpp,&theme=dark)](https://skillicons.dev)
 
 <hr style="border-radius: 50px";>
 <p align="center">
