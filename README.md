@@ -6,8 +6,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Maximus7474&label=Visitors)
 
-[![Discord](https://img.shields.io/discord/1230456494139506709?style=flat&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=7289DA)](https://discord.gg/wCcsEcUhzf)
-
 ## Languages:
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,py,lua,sql&theme=dark)](https://skillicons.dev)
 ## Integrations:
