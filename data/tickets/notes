@@ -1,2 +1,2 @@
-- Initial Release
-- You shouldn't be seeing this
+- bug fix on tickets not showing as closed if closed in game
+- modifiable embeds sent from fxserver
