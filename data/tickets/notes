@@ -1,2 +1,4 @@
-- bug fix on tickets not showing as closed if closed in game
-- modifiable embeds sent from fxserver
+- added customisable keybinds & command names
+- altered locale loading process
+
+⚠️ locales files have changes
