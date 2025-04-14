@@ -23,5 +23,4 @@
 </p>
 
 ## Links:
-- Personal Server - [Discord](https://discord.gg/wCcsEcUhzf)
 - Paid FiveM Scripts - [Tebex Store](https://maximus-scripts.tebex.io/category/2765572)
