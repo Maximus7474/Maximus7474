@@ -1,4 +1,5 @@
-- added customisable keybinds & command names
-- altered locale loading process
+- removed escrow of all files
+- integrated a logger module for better prints
+- added debug prints to all files (using Config.Debug = true)
 
-⚠️ locales files have changes
+⚠️ all files have changes with new calls to the debug class
