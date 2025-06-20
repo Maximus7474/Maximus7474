@@ -13,7 +13,7 @@
 ## Web Stack Experience:
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=shadcnui,chakraui,pnpm,sqlite,react,tailwind,expressjs&theme=dark)](https://skillicons.dev)
 ## Looking into:
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=githubactions,cpp,go,rust,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=githubactions,cpp,go,rust,csharp&theme=dark)](https://skillicons.dev)
 
 <hr style="border-radius: 50px";>
 <p align="center">
