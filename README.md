@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage&hide_border=true" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark" style="margin-bottom: 2.5em;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=batchfile,shell" style="margin-bottom: 2.5em;"/>
 </p>
 
 ## Links:
