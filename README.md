@@ -9,11 +9,11 @@
 ## Languages:
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,py,lua,sql&theme=dark)](https://skillicons.dev)
 ## Integrations:
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=git,github,discordjs,sqlite,mariadb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=git,github,githubactions,discordjs,sqlite,mariadb&theme=dark)](https://skillicons.dev)
 ## Web Stack Experience:
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=shadcnui,chakraui,pnpm,sqlite,react,tailwind,expressjs&theme=dark)](https://skillicons.dev)
 ## Looking into:
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=githubactions,cpp,go,rust,csharp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skills-icons.vercel.app/api/icons?i=cpp,csharp,go,rust&theme=dark)](https://skillicons.dev)
 
 <hr style="border-radius: 50px";>
 <p align="center">
