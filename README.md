@@ -4,8 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Spoken%20Languages-636363)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/English-012169)&nbsp;![Static Badge](https://img.shields.io/badge/Français-ce1127)&nbsp;![Static Badge](https://img.shields.io/badge/Deutsch-ffce00) 
 
-![Visitors](https://komarev.com/ghpvc/?username=Maximus7474&label=Visitors)
-
 ## Languages:
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,py,lua,sql&theme=dark)](https://skillicons.dev)
 ## Integrations:
