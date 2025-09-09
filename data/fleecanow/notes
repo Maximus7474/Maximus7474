@@ -1,2 +1,3 @@
-- Implemented locale handling for resource
-- Implemented logging
+- Fixed proximity sharing
+- Fixed profile editing
+- Fixed history being incorrectly ordered
