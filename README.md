@@ -4,6 +4,20 @@
 
 ![Static Badge](https://img.shields.io/badge/Spoken%20Languages-636363)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/English-012169)&nbsp;![Static Badge](https://img.shields.io/badge/Français-ce1127)&nbsp;![Static Badge](https://img.shields.io/badge/Deutsch-ffce00) 
 
+Open for discussing commissioned work, if interested please prepare a detailled description of your requirements and contact me via:
+* Email: <a href="mailto:the.maximus.7474@gmail.com">the.maximus.7474@gmail.com</a>
+* Discord [ticket](https://discord.gg/PF2g8BfX9g)
+
+
+> <details>
+> <summary><b>Details for commissioned work:</b></summary>
+>  Any sort of project has it's requirements, some will be based on decisions others will be imposed. These are very important when working on a project for someone else, not having clear requirements or not caring about them will lead to longer development times, higher costs and potential wasted time.
+>  
+> ### Requirements that are good to have:
+> <li><b>Tech Stack</b>: What technologies do you want or need to use?</li>
+> <li><b>Designs</b>: What's the wanted design ? What is the main colour theme, style (minimalist, futurist, etc...) ?</li>
+> </details> 
+
 ## Languages:
 [![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,py,lua,sql&theme=dark)](https://skillicons.dev)
 ## Integrations:
