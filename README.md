@@ -19,13 +19,13 @@ Open for discussing commissioned work, if interested please prepare a detailled 
 > </details> 
 
 ## Languages:
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,py,lua,sql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=python,html,css3,javascript,typescript,lua)](https://github.com/syvixor/skills-icons)
 ## Integrations:
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=git,github,githubactions,discordjs,sqlite,mariadb&theme=dark)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=mariadb,postgresql,sqlite,prisma,github,githubactions,discordjs,pnpm)](https://github.com/syvixor/skills-icons)
 ## Web Stack Experience:
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=shadcnui,chakraui,pnpm,sqlite,react,tailwind,expressjs&theme=dark)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=ejs,reactjs,expressjs,django,chakraui,shadcnui,tailwindcss)](https://github.com/syvixor/skills-icons)
 ## Looking into:
-[![My Skills](https://skills-icons.vercel.app/api/icons?i=cpp,csharp,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=docker,rust,tauri&theme=dark)](https://github.com/syvixor/skills-icons)
 
 <hr style="border-radius: 50px";>
 <p align="center">
