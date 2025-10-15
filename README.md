@@ -25,7 +25,7 @@ Open for discussing commissioned work, if interested please prepare a detailled 
 ## Web Stack Experience:
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=ejs,reactjs,expressjs,django,chakraui,shadcnui,tailwindcss)](https://github.com/syvixor/skills-icons)
 ## Looking into:
-[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=docker,rust,tauri&theme=dark)](https://github.com/syvixor/skills-icons)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=docker,rust,tauri,reactnative&theme=dark)](https://github.com/syvixor/skills-icons)
 
 <hr style="border-radius: 50px";>
 <p align="center">
