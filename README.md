@@ -29,17 +29,29 @@ Open for discussing commissioned work, if interested please prepare a detailled 
 
 <hr style="border-radius: 50px";>
 <p align="center">
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage&hide_border=true" />
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
+    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api?username=Maximus7474&show_icons=true&theme=dark&show=reviews,prs_merged_percentage&hide_border=true" />
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=batchfile,shell,javascript" style="margin-bottom: 2.5em;"/>
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
+    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=batchfile,shell,javascript" style="margin-bottom: 2.5em;"/>
+  </a>
 </p>
 
 <hr style="border-radius: 50px";>
 <p align="center">
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=tebexsync-bot&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=discord-ts-boilerplate&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-adaptivecards&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-elevator&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
+  <a href="https://github.com/Maximus7474/tebexsync-bot" target="_blank">
+    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=tebexsync-bot&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Maximus7474/discord-ts-boilerplate" target="_blank">
+    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=discord-ts-boilerplate&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
+  </a>
+  <a href="https://github.com/Maximus7474/mps-adaptivecards" target="_blank">
+    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-adaptivecards&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
+  </a>
+  <a href="https://github.com/Maximus7474/mps-elevator" target="_blank">
+    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-elevator&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
+  </a>
 </p>
 
 ## Links:
