@@ -36,10 +36,10 @@ Open for discussing commissioned work, if interested please prepare a detailled 
 
 <hr style="border-radius: 50px";>
 <p align="center">
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=tebexsync-bot&theme=dark" />
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=discord-ts-boilerplate&theme=dark" style="margin-bottom: 2.5em;"/>
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-adaptivecards&theme=dark" style="margin-bottom: 2.5em;"/>
-  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-elevator&theme=dark" style="margin-bottom: 2.5em;"/>
+  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=tebexsync-bot&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=discord-ts-boilerplate&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
+  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-adaptivecards&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
+  <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-elevator&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
 </p>
 
 ## Links:
