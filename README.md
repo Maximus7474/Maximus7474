@@ -4,7 +4,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Spoken%20Languages-636363)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/English-012169)&nbsp;![Static Badge](https://img.shields.io/badge/Français-ce1127)&nbsp;![Static Badge](https://img.shields.io/badge/Deutsch-ffce00) 
 
-Open for discussing commissioned work, if interested please prepare a detailled description of your requirements and contact me via:
+<!-- Open for discussing commissioned work, if interested please prepare a detailled description of your requirements and contact me via:
 * Email: <a href="mailto:the.maximus.7474@gmail.com">the.maximus.7474@gmail.com</a>
 * Discord [ticket](https://discord.gg/PF2g8BfX9g)
 
@@ -17,6 +17,7 @@ Open for discussing commissioned work, if interested please prepare a detailled 
 > <li><b>Tech Stack</b>: What technologies do you want or need to use?</li>
 > <li><b>Designs</b>: What's the wanted design ? What is the main colour theme, style (minimalist, futurist, etc...) ?</li>
 > </details> 
+-->
 
 ## Languages:
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=python,html,css3,javascript,typescript,lua)](https://github.com/syvixor/skills-icons)
