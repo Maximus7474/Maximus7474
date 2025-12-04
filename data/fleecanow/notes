@@ -1,4 +1,1 @@
-- Fixed proximity sharing
-- Fixed profile editing
-- Fixed history being incorrectly ordered
-- Fixed script not loading interface
+- Fixed minor error on player disconnect
