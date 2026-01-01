@@ -19,6 +19,10 @@
 > </details> 
 -->
 
+## Links:
+- Source Available FiveM scripts - [Tebex Store](https://maximus-scripts.tebex.io)
+- Feel free to donate - [KoFi](https://ko-fi.com/Y8Y1WM2E6)
+
 ## Languages:
 [![Skills](https://skills.syvixor.com/api/icons?perline=15&i=python,html,css3,javascript,typescript,lua)](https://github.com/syvixor/skills-icons)
 ## Integrations:
@@ -54,6 +58,3 @@
     <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=mps-elevator&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
   </a>
 </p>
-
-## Links:
-- Paid FiveM Scripts - [Tebex Store](https://maximus-scripts.tebex.io/category/2765572)
