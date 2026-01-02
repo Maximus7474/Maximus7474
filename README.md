@@ -39,7 +39,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
-    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=batchfile,shell,javascript" style="margin-bottom: 2.5em;"/>
+    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/top-langs/?username=Maximus7474&layout=compact&hide_border=true&theme=dark&langs_count=8&hide=batchfile,shell,javascript,jupyter%20notebook" style="margin-bottom: 2.5em;"/>
   </a>
 </p>
 
