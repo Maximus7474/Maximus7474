@@ -20,7 +20,7 @@
 -->
 
 ## Links:
-- Source Available FiveM scripts - [Tebex Store](https://maximus-scripts.tebex.io)
+- Exclusive FiveM scripts - [Tebex Store](https://maximus-scripts.tebex.io)
 - Feel free to donate - [KoFi](https://ko-fi.com/Y8Y1WM2E6)
 
 ## Languages:
