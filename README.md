@@ -48,9 +48,6 @@
   <a href="https://github.com/fxManagerProject/fxManager" target="_blank">
     <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=fxManagerProject&repo=fxManager&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
   </a>
-  <a href="https://github.com/Maximus7474/tebexsync-bot" target="_blank">
-    <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=tebexsync-bot&theme=dark&hide_border=true" />
-  </a>
   <a href="https://github.com/Maximus7474/discord-ts-boilerplate" target="_blank">
     <img src="https://github-readme-stats-lac-tau-70.vercel.app/api/pin/?username=Maximus7474&repo=discord-ts-boilerplate&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
   </a>
