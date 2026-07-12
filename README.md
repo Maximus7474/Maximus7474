@@ -39,7 +39,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Maximus7474&layout=compact&langs_count=8&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Maximus7474&layout=compact&langs_count=8&theme=dark&hide_border=true&hide=batchfile,shell,javascript,jupyter%20notebook" style="margin-bottom: 2.5em;"/>
   </a>
 </p>
 
