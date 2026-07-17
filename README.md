@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<hr style="border-radius: 50px";>
+<!-- <hr style="border-radius: 50px";>
 <p align="center">
   <a href="https://github.com/fxManagerProject/fxManager" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Maximus7474&repo=fxManagerProject/fxManager&show_owner=true&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
@@ -57,4 +57,4 @@
   <a href="https://github.com/Maximus7474/mps-elevator" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Maximus7474&repo=mps-elevator&theme=dark&hide_border=true" style="margin-bottom: 2.5em;"/>
   </a>
-</p>
+</p> -->
